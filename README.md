@@ -1,3 +1,6 @@
+<p>If you encounter an issue when running <code>Go Run .</code>, please check your go.work file again to see if you have entered the project name in that file.</p>
+
+<hr>
 <div align="center">
 
 <img src="https://www.goravel.dev/logo.png?v=1.14.x" width="300" alt="Logo">
